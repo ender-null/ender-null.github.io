@@ -1,8 +1,8 @@
 FROM jekyll/jekyll
 
-WORKDIR /app
+WORKDIR /srv/jekyll
 
-COPY . /app
+COPY . /srv/jekyll
 
 EXPOSE 4000
 
