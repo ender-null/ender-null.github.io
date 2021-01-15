@@ -93,4 +93,4 @@ jobs:
             docker pull ghcr.io/${{ github.repository_owner }}/blog-jekyll:latest
             docker stop blog-jekyll
             docker rm blog-jekyll
-            docker run -ti -d --restart unless-stopped --name blog-jekyll ghcr.io/${{ github.repository_owner }}/blog-jekyll
+            docker run -ti -d --restart unless-stopped --name blog-jekyll -p 4000:4000 ghcr.io/${{ github.repository_owner }}/blog-jekyll
