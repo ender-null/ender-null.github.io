@@ -43,6 +43,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-admin
 
 jekyll-archives:
   enabled: all
@@ -53,6 +54,15 @@ jekyll-archives:
     day: "/:year/:month/:day/"
     tag: "/tag/:name/"
     category: "/category/:name/"
+
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
