@@ -31,14 +31,7 @@ twitter_username: endernull
 github_username: luksireiku
 
 # Build settings
-theme: jekyll-theme-console
-
-style: light
-# listen_for_clients_preferred_style: true
-
-header_pages:
-  - index.md
-  - about.md
+theme: no-style-please
 
 plugins:
   - jekyll-feed
@@ -46,7 +39,7 @@ plugins:
   - jekyll-archives
 
 jekyll-archives:
-  enabled: []
+  enabled: all
   layout: archive
   permalinks:
     year: "/:year/"
