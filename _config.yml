@@ -23,12 +23,12 @@ email: endernull@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Un loco con un cartel / 26 y.o. / Boy / Otaku / Geek / Programmer / Evelynn Main / Telegram Bot Dev
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekyll.drk.cat" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://jekyll.drk.cat # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: endernull
 github_username: luksireiku
 
 # Build settings
-theme: jekyll-hackcss
+theme: no-style-please
 plugins:
   - jekyll-feed
   - jekyll-archives
