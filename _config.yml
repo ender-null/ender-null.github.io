@@ -28,7 +28,7 @@ twitter_username: endernull
 github_username: luksireiku
 
 # Build settings
-theme: no-style-please
+theme: jekyll-theme-chalk
 plugins:
   - jekyll-feed
   - jekyll-archives
