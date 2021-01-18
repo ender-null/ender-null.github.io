@@ -22,6 +22,7 @@ title: ender
 email: endernull@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Un loco con un cartel / 26 y.o. / Boy / Otaku / Geek / Programmer / Evelynn Main / Telegram Bot Dev
+locale: es_ES
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jekyll.drk.cat # the base hostname & protocol for your site, e.g. http://example.com
 host: jekyll.drk.cat
@@ -32,8 +33,8 @@ github_username: luksireiku
 # Build settings
 theme: jekyll-theme-console
 
-style: dark
-listen_for_clients_preferred_style: true
+style: light
+# listen_for_clients_preferred_style: true
 
 header_pages:
   - index.md
