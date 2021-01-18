@@ -27,7 +27,6 @@ locale: es_ES
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jekyll.drk.cat # the base hostname & protocol for your site, e.g. http://example.com
 host: jekyll.drk.cat
-port: 443
 twitter_username: endernull
 github_username: luksireiku
 
