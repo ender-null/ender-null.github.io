@@ -8,4 +8,4 @@ RUN gem install no-style-please
 
 RUN bundle install
 
-CMD ["bundle", "exec", "jekyll", "serve"]
+CMD ["jekyll", "serve"]

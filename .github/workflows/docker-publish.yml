@@ -91,6 +91,6 @@ jobs:
           script: |
             echo "${{ secrets.CR_PAT }}" | docker login https://ghcr.io -u ${{ github.actor }} --password-stdin
             docker pull ghcr.io/${{ github.repository_owner }}/blog-jekyll:latest
-            docker stop blog-jekyll
-            docker rm blog-jekyll
-            docker run -ti -d --restart unless-stopped --name blog-jekyll -p 4000:4000 ghcr.io/${{ github.repository_owner }}/blog-jekyll
+            docker stop blog
+            docker rm blog
+            docker run -ti -d --restart unless-stopped --name blog -p 4000:4000 ghcr.io/${{ github.repository_owner }}/blog-jekyll
