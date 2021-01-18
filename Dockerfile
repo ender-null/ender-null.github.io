@@ -8,4 +8,4 @@ RUN gem install no-style-please
 
 RUN bundle install
 
-CMD ["jekyll", "serve"]
+CMD ["JEKYLL_ENV=production", "bundle", "exec", "jekyll", "serve"]

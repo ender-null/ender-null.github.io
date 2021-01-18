@@ -39,6 +39,7 @@ theme_config:
   show_description: true # show blog description in home page
 
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
