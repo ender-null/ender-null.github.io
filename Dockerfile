@@ -1,5 +1,7 @@
 FROM jekyll/jekyll
 
+USER jekyll
+
 WORKDIR /srv/jekyll
 
 COPY . /srv/jekyll
