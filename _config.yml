@@ -56,13 +56,7 @@ jekyll-archives:
     category: "/category/:name/"
 
 jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
+  homepage: "posts"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
