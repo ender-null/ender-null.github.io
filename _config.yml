@@ -31,7 +31,7 @@ twitter_username: endernull
 github_username: luksireiku
 
 # Build settings
-remote_theme: luksireiku/no-style-please
+remote_theme: luksireiku/no-style-pls
 
 # theme: minima
 theme_config:
