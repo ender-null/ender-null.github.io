@@ -11,4 +11,6 @@ COPY ./_data /srv/jekyll
 
 RUN chown jekyll:jekyll /srv/jekyll -R
 
+RUN bundle install
+
 CMD ["bundle", "run", "jekyll", "serve"]

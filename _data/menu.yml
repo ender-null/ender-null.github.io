@@ -2,18 +2,27 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: README
-    url: readme
-
-  - title: downloads
-    url: downloads
-
-  - title: "posts"
+  - title: me
+    entries:
+      - title: email
+        url: mailto:endernull@icloud.com
+      - title: github
+        url: https://github.com/luksireiku/
+      - title: rss feed
+        url: feed.xml
+  - title: thoughts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: more...
       show_more_url: archive
 
-  - title: contact
-    url: contact
+  - title: projects
+    entries:
+      - title: polaris
+        url: https://github.com/luksireiku/polaris
+      - title: polaris.py
+        url: https://github.com/luksireiku/polaris.py
+
+  - title: about
+    url: about

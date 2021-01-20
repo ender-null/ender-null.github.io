@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,22 +18,46 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ender
+title: endernull
 email: endernull@icloud.com
+author: endernull
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Un loco con un cartel / 26 y.o. / Boy / Otaku / Geek / Programmer / Evelynn Main / Telegram Bot Dev
+locale: es_ES
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://jekyll.drk.cat # the base hostname & protocol for your site, e.g. http://example.com
+host: jekyll.drk.cat
 twitter_username: endernull
-github_username:  luksireiku
+github_username: luksireiku
 
 # Build settings
-theme: no-style-please
+# theme: no-style-please
+theme: minima
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: "..back" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-admin
+
+jekyll-archives:
+  enabled: all
+  layout: archive
+  permalinks:
+    year: "/:year/"
+    month: "/:year/:month/"
+    day: "/:year/:month/:day/"
+    tag: "/tag/:name/"
+    category: "/category/:name/"
+
+jekyll_admin:
+  homepage: "posts"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -43,14 +67,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
