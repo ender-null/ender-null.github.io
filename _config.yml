@@ -22,7 +22,7 @@ title: ender null
 email: endernull@icloud.com
 author: endernull
 description: >- # this means to ignore newlines until "baseurl:"
-  Un loco con un cartel / 26 y.o. / Boy / Otaku / Geek / Programmer / Evelynn Main / Telegram Bot Dev
+  Un loco con un cartel / 26 y.o. / Boy / Otaku / Geek / Programmer / Horde Rogue / Evelynn Main / Silver 3 / Telegram Bot Dev / @brovrashgka boss 
 lang: es
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ender.drk.cat # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,8 +34,8 @@ github_username: luksireiku
 remote_theme: luksireiku/no-style-pls
 
 theme_config:
-  appearance: "light" # can be "light", "dark" or "auto"
-  back_home_text: "Home" # customize text for homepage link in post layout
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%d %B, %Y" # date shown in posts
   date_format_short: "%d/%m/%y" # short date format shown in post lists/archive
   show_description: true # show blog description in home page
@@ -57,9 +57,6 @@ jekyll-archives:
     day: "/:year/:month/:day/"
     tag: "/tag/:name/"
     category: "/category/:name/"
-
-jekyll_admin:
-  homepage: "posts"
 
 sass:
   style: :compressed

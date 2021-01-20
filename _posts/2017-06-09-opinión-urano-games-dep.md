@@ -1,22 +1,24 @@
 ---
 layout: post
 title: "[Ragepost] Urano Games D.E.P"
-date: '2017-06-09T00:07:49-05:00'
+date: "2017-06-09T00:07:49-05:00"
 tags:
-- reflexion
-- review
-- eventos
+  - reflexion
+  - review
+  - eventos
 tumblr_url: https://endernull.tumblr.com/post/161597545400/opini%C3%B3n-urano-games-dep
 ---
+
 tl;dr: Fue un desastre y un evento pésimo a un precio desorbitado, hicieron cosas chachis y mejoraron cosas conforme al año pasado, pero eso sólo son excusas para que no parezca que ha sido una absoluta 💩
 
-La verdad es que le he dado muchas vueltas a si escribir esto o no, ni he ido este año a la Urano ni iba a escribir algo objetivo, prácticamente todo lo que iba y voy a escribir serán cosas negativas.   
+La verdad es que le he dado muchas vueltas a si escribir esto o no, ni he ido este año a la Urano ni iba a escribir algo objetivo, prácticamente todo lo que iba y voy a escribir serán cosas negativas.  
 ¿Por qué?  
 Porque son una organización pésima y no tienen ni idea de lo que hacen, todo lo que rodea al evento y a la organización es ridículo y surrealista, lo peor de todo es que deben de ser los únicos en no darse cuenta, de hecho se piensan que lo están haciendo bien pero que la gente no para de putearles y lanzarles puñales porque son unos haters, así de surrealista es su actitud. Si algo ha ido bien y ha salido como debe ser es porque tienen gente competente que ha dado todo por sacarlo adelante.
 
-Personalmente me ofenden profundamente por tres grandes puntos:   
-1. Conozco a unas cuantas personas tanto colaboradores y organizadores que son capaces de hacer grandes cosas o que ya han hecho grandes cosas y que hayan podido cagarla tanto me resulta muy penoso.   
-2. Su actitud de superioridad y de que todo lo que hacen esta bien y no se les puede llevar la contraria o criticar porque “no sabemos cómo funcionan las cosas” (palabras reales de alguna que otra personita), que son incapaces de admitir fallos y se toman cualquier cosa que les dices como un puñal o te toman por un hater.   
+Personalmente me ofenden profundamente por tres grandes puntos:
+
+1. Conozco a unas cuantas personas tanto colaboradores y organizadores que son capaces de hacer grandes cosas o que ya han hecho grandes cosas y que hayan podido cagarla tanto me resulta muy penoso.
+2. Su actitud de superioridad y de que todo lo que hacen esta bien y no se les puede llevar la contraria o criticar porque “no sabemos cómo funcionan las cosas” (palabras reales de alguna que otra personita), que son incapaces de admitir fallos y se toman cualquier cosa que les dices como un puñal o te toman por un hater.
 3. Prácticamente ha insultado a toda Zaragoza y a casi todas las comunidades, asociaciones y eventos menospreciandolas y con su actitud de superioridad, ya que ellos consideran que lo que ellos ofrecen es muchísimo superior a lo que ya hay y que eso justifica sus precios (cosa que no es verdad).
 
 Este año parece que ha mejorado algo la organización y en general dice la gente que ha estado mejor montado, pero han cometido unas cagadas tan gordas y sonoras que ha sido un fracaso absoluto y será la última edición del evento, y esto lo veía venir ya desde hace meses atrás, habría que tener un serio problema mental para repetir el año que viene.

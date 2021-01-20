@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 'Critica: Urano Games Week (Parte Final)'
-date: '2016-04-25T09:41:20-05:00'
+title: "Critica: Urano Games Week (Parte Final)"
+date: "2016-04-25T09:41:20-05:00"
 tags:
-- review
-- eventos
+  - review
+  - eventos
 tumblr_url: https://endernull.tumblr.com/post/143367221970/critica-urano-games-week-parte-3
 ---
+
 Creo que ya es hora de la valoración verdadera del evento, desde mi opinión y experiencia de años colaborando y organizando eventos y otros tantos de visitante. Probablemente debería decir cosas muy bonitas ya que bastantes colaboradores y algunos organizadores son conocidos míos y ademas porque me han concedido un pase de prensa con el que poder acceder a casi todo el evento de forma gratuita, me sabe algo mal, pero creo que mi deber es informar a la gente lo mejor posible, de lo bueno y lo malo, como ya dije en la primera parte: _lo bueno no quita a lo malo, ni lo malo quita a lo bueno._&nbsp;Creo que la organización ha tenido grandes logros y también fracasos estelares, y ambos merecen ser dichos.
 
 Recomiendo leer un poco (porque también son buenos tochacos, (sorry)) la [primera](https://ender.drk.cat/post/critica-urano-games-week-parte-1) y [segunda parte](https://ender.drk.cat/post/critica-urano-games-week-parte-2) de mi review, donde hablo sobre lo que publicaban en su web y sobre la rueda de prensa.
@@ -41,11 +42,11 @@ Creo que en la organización me da la impresión de que hay una mezcla de gente 
 
 Y no quiero ningún tipo de excusa de&nbsp;“_es que están empezando_”,&nbsp;“_es que es la primera&nbsp;edición_”, etc. son excusas de mierda que dices cuando la cagas por inútil, lo puedo pasar en eventos gratuitos o con un precio simbólico, pero pagando semejante cantidad de dinero para&nbsp;“_el mejor evento de videojuegos de Zaragoza_” y demás egocentrismos, llegándose a comparar con la Madrid Games Week diciendo que eran incluso mejores, para que luego te suelten excusas de mierda, no gracias, si no eres capaz de hacer un evento grande en condiciones, no hagas un evento grande, y si no eres capaz de ofrecer los suficiente por lo que cobras entrada, no cobres tan cara la entrada. No quiero excusas de mierda ni que vayan diciendo “que ha sido un éxito” y chorradas así, si son gente que merece la pena escucharan las criticas y actuaran en consecuencia, incluso pidiendo disculpas a los asistentes que han acabado con una experiencia inolvidable que les marcara para mucho tiempo, y no digo ya compensarles de alguna manera, que es mucho pedir.
 
-* * *
+---
 
 Lo digo y lo repito, ni mentiras ni excusas, aprended a ser realistas y a dar buena imagen y dejar contenta a la gente y a estar a la altura. Yo junto a mi asociación Brovrashgka de la que estoy orgulloso organizamos OtakuFest II un evento gratuito para la gente, con honestidad, sin dárnoslas de grandes y contando siempre con la opinión de la gente para mejorar, haciendo que la mayoría se fuesen a casa contentos tras pasar un gran día en compañía de mucha gente llegando a un total de unos 900 y pico asistentes. Son pretendo comparar un evento a gran escala con uno pequeño, sino mostrar que el trato con la gente, la humildad y hacer las cosas desinteresadamente se notan mucho y la gente las valora. Y que para futuros eventos tengáis en cuenta estas cosas y si volvéis a ganaros la confianza de la gente que tengáis mas cuidado.
 
-* * *
+---
 
 PD: He omitido casi la totalidad de la Zona Indie, ya que dedicare otro post Extra después, comentando detalladamente los diferentes proyectos y juegos que han ido mostrando.  
 PD2: Siendo haberme extendido, me he emocionado :S  

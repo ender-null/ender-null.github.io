@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 'Critica: IV Finde del Anime y Jpop'
-date: '2014-04-28T05:09:00-05:00'
+title: "Critica: IV Finde del Anime y Jpop"
+date: "2014-04-28T05:09:00-05:00"
 tags:
-- review
-- eventos
+  - review
+  - eventos
 tumblr_url: https://endernull.tumblr.com/post/84090932628/critica-iv-finde-del-anime-y-jpop
 ---
+
 <figure class="tmblr-full" data-orig-height="707" data-orig-width="500" data-orig-src="https://64.media.tumblr.com/ccc33700be1eb03534a3ec2540b0928b/tumblr_inline_p2atb7Utyk1r4z7q0_540.jpg"><img src="https://64.media.tumblr.com/6f745c5525bd63e4cf1cebcdfa543bb9/tumblr_inline_pdnj6584XQ1r4z7q0_540.jpg" alt="image" data-orig-height="707" data-orig-width="500" data-orig-src="https://64.media.tumblr.com/ccc33700be1eb03534a3ec2540b0928b/tumblr_inline_p2atb7Utyk1r4z7q0_540.jpg"></figure>
 
 Siguiendo la costumbre de mostrar públicamente las opiniones sobre eventos que están habiendo, voy a hablar del Finde del Anime y Jpop, que este año a llegado a la cuarta edición. Antes de nada quiero decir que yo opino que uno no tiene derecho a criticar algo si no es capaz de hacerlo mejor, porque es muy fácil opinar sin conocer el esfuerzo y trabajo que cuesta hacer las cosas.  
@@ -17,11 +18,12 @@ En general ha mejorado **ligeramente** comparado con los años anteriores, aunqu
 **Cartel:**  
 El dibujo del cartel esta hecho a mano como en anteriores ediciones, aunque esta vez el concepto y el estilo ha estado bien, ya que simbolizaban la unión entre los estilos lolita y steampunk por el Lolita Cafe y la Pasarela Steampunk, la puesta en practica a sido bastante peor ya que no solo el dibujo tiene muchos fallos, sino que también es algo amorfo y hay dibujos de anteriores ediciones que estaban mejor hechos, aunque no fuesen tan buenos carteles. En resumen: mejor cartel, peor dibujo.
 
-El diseño del cartel es algo que realmente me a chocado mucho ya que es bastante caótico.  
-1. El titulo del evento no aparece por ningún lado.  
-2. Hay un espacio en blanco abajo del cartel que esta para poner los logotipos de stands, colaboradores, conciertos, etc. Pues varios de ellos están fuera de esa zona, ademas de que están puestos de manera caótica y no queda muy claro que es cada uno.  
-3. La fuente utilizada es horrenda, no queda profesional y cuesta tomárselo enserio, ademas de que hay un gran abuso de las mayúsculas.  
-4. Hay un trozo de texto que esta pegado al margen e incluso se corta, “Casa de Juventud” y “Las Fuentes”  
+El diseño del cartel es algo que realmente me a chocado mucho ya que es bastante caótico.
+
+1. El titulo del evento no aparece por ningún lado.
+2. Hay un espacio en blanco abajo del cartel que esta para poner los logotipos de stands, colaboradores, conciertos, etc. Pues varios de ellos están fuera de esa zona, ademas de que están puestos de manera caótica y no queda muy claro que es cada uno.
+3. La fuente utilizada es horrenda, no queda profesional y cuesta tomárselo enserio, ademas de que hay un gran abuso de las mayúsculas.
+4. Hay un trozo de texto que esta pegado al margen e incluso se corta, “Casa de Juventud” y “Las Fuentes”
 5. Quitando el fondo y la barra rosa de la derecha, hay apenas color y no solo eso sino que cuesta leer algunas cosas que hay escritas, por ejemplo parte de las actividades que pusieron en el cartel.
 
 **Programa de actividades:**

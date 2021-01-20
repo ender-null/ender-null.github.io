@@ -1,19 +1,20 @@
 ---
 layout: post
-title: 'Critica: Urano Games Week (Parte 2)'
-date: '2016-04-25T07:05:22-05:00'
+title: "Critica: Urano Games Week (Parte 2)"
+date: "2016-04-25T07:05:22-05:00"
 tags:
-- review
-- eventos
+  - review
+  - eventos
 tumblr_url: https://endernull.tumblr.com/post/143362213400/critica-urano-games-week-parte-2
 ---
+
 Siguiendo mi extensa review de Urano Games, ahora me toca hablar de la Rueda de Prensa a la que pude asistir, había muchas cosas sobre el evento que me habían dejado bastante mosca y me hacían preguntarme quienes se creían y si de verdad tenían algo de idea de algo de lo que hacían, porque había mucha información que suscitaba dudas, y que sobretodo que hacia que la gente tuviese interés nulo en ir al evento con semejantes precios y un contenido que iba destinado a un publico muy determinado haciendo que en general la gente no estuviese interesada.
 
 Aquí tenéis la rueda de prensa subida a YouTube, con una acústica un poco mala, y no se puede ver la pantalla con la presentación, pero bueno.
 
 [https://www.youtube.com/watch?v=W\_-t4TmTAvA](https://www.youtube.com/watch?v=W_-t4TmTAvA)
 
-* * *
+---
 
 Para empezar hay que decir que había muy poca gente y medios, prácticamente bloggeros ya que parece que ningún medio grande tuvo interés en asistir como claramente ha dicho Aitor Román, presidente general de Urano Games,&nbsp;“_Antena 3 y todos estos no se han dignado a venir […] ellos se lo pierden_”, no hay mejor manera que empezar que con un poco de egocentrismo, sobretodo cuando intentas mejorar la imagen publica del evento.
 
@@ -46,7 +47,7 @@ En cuanto a cosplay confiesan que saben poco y que cuentan con el asesoramiento 
 
 También dicen que en taquilla las entradas serán mas caras, comparadolo con otros eventos o conciertos, cosa que me mosquea, porque de por si ya son muy caras las entradas, no se como pueden seguir queriendo cobrar todavía mas a la gente.
 
-* * *
+---
 
 Personalmente me quede muy a gusto tras esta rueda de prensa que arrojaba bastante confianza y disipaba bastantes dudas sobre Urano Games, y que me ha parecido bastante buena iniciativa, igualmente me ha parecido una apuesta muy arriesgada, con un contenido bueno aunque los precios algo altos, una apuesta demasiado arriesgada para Zaragoza que no veía muy viable, pero que podría llegar a salir bien incluso pensé en pagar la entrada de un día y ver que tal esta, aunque finalmente nos concedieron un **pase de prensa** con acceso completo al evento a los asistentes a la rueda de prensa, todo un puntazo.
 

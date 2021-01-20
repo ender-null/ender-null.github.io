@@ -6,6 +6,10 @@ entries:
     entries:
       - title: about
         url: about
+      - title: telegram
+        url: https://t.me/endernull
+      - title: twitter
+        url: https://twitter.com/endernull
       - title: email
         url: mailto:endernull@icloud.com
       - title: github

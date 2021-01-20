@@ -1,19 +1,20 @@
 ---
 layout: post
-title: 'Critica: Urano Games Week (Parte 1)'
-date: '2016-04-25T05:24:51-05:00'
+title: "Critica: Urano Games Week (Parte 1)"
+date: "2016-04-25T05:24:51-05:00"
 tags:
-- review
-- eventos
+  - review
+  - eventos
 tumblr_url: https://endernull.tumblr.com/post/143357583300/critica-urano-games-week-parte-1
 ---
+
 <figure class="tmblr-full" data-orig-height="159" data-orig-width="540" data-orig-src="https://64.media.tumblr.com/6e86041afba5b6cce379ff0aeb198a94/tumblr_inline_p2ata4roMJ1r4z7q0_540.png"><img src="https://64.media.tumblr.com/6e86041afba5b6cce379ff0aeb198a94/tumblr_inline_pdnj65DQfP1r4z7q0_540.png" alt="image" data-orig-height="159" data-orig-width="540" data-orig-src="https://64.media.tumblr.com/6e86041afba5b6cce379ff0aeb198a94/tumblr_inline_p2ata4roMJ1r4z7q0_540.png"></figure>
 
 Aprovechando que obtuve pase de prensa, y que hay muchas cosas sobre el evento que quiero comentar, escribo esto, no tengo intención de hablar mal del evento ni de tirarles flores, sino de informar a la gente de como ha sido, desde mi opinión, claro, y señalar los puntos positivos y negativos que ha tenido.
 
 No tengo ni idea por donde empezar, hay demasiado que comentar porque ha sido un evento que da mucho que hablar, resumiendo puedo decir que ha sido un evento mediocre, con unos precios que han supuesto una verdadera timada para los asistentes, y una vez dentro muy poca cosa, que prácticamente muchos al poco rato no tenían nada que hacer, yo me he entretenido hablando con compañeros de clase, conocidos y con la gente amable de los stands indies.  
-Personalmente me sabe mal tener que decir tantas cosas malas del evento, teniendo en cuenta que tuve pase de prensa y acceso gratuito a la mayor parte del evento, ademas de que muchos de la organización y colaboradores eran conocidos o amigos míos, pero hay cosas que me han sacado mucho de mis casillas, y otras muchas que han hecho un gran trabajo y se merecen cierto reconocimiento.  
-  
+Personalmente me sabe mal tener que decir tantas cosas malas del evento, teniendo en cuenta que tuve pase de prensa y acceso gratuito a la mayor parte del evento, ademas de que muchos de la organización y colaboradores eran conocidos o amigos míos, pero hay cosas que me han sacado mucho de mis casillas, y otras muchas que han hecho un gran trabajo y se merecen cierto reconocimiento.
+
 _Lo bueno no quita a lo malo, ni lo malo quita a lo bueno._
 
 Bueno, voy a empezar,&nbsp;  
