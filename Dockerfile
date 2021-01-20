@@ -2,12 +2,12 @@ FROM jekyll/jekyll
 
 WORKDIR /srv/jekyll
 
-COPY ./Gemfile* /srv/jekyll/
-COPY ./*.md /srv/jekyll/
-COPY ./*.html /srv/jekyll/
-COPY ./*.yml /srv/jekyll/
-COPY ./_posts /srv/jekyll/_posts
-COPY ./_data /srv/jekyll/_data
+COPY ./Gemfile* .
+COPY ./*.md .
+COPY ./*.html .
+COPY ./*.yml .
+COPY ./_posts _posts/
+COPY ./_data _data/
 
 RUN chown jekyll:jekyll /srv/jekyll -R
 
