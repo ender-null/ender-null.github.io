@@ -31,8 +31,8 @@ twitter_username: endernull
 github_username: luksireiku
 
 # Build settings
-# theme: no-style-please
-theme: minima
+theme: no-style-please
+# theme: minima
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "..back" # customize text for homepage link in post layout
