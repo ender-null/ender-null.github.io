@@ -13,6 +13,8 @@ RUN chown jekyll:jekyll /srv/jekyll -R
 
 RUN bundle install
 
+ENV JEKYLL_ENV=production
+
 EXPOSE 4000
 
 CMD ["bundle", "exec", "jekyll", "serve"]
