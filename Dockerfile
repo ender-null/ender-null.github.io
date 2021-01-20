@@ -2,10 +2,10 @@ FROM jekyll/jekyll
 
 WORKDIR /srv/jekyll
 
-COPY ./Gemfile* .
-COPY ./*.md .
-COPY ./*.html .
-COPY ./*.yml .
+COPY ./Gemfile* ./
+COPY ./*.md ./
+COPY ./*.html ./
+COPY ./*.yml ./
 COPY ./_posts _posts/
 COPY ./_data _data/
 
