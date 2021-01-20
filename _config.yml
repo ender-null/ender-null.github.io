@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: endernull
+title: ender null
 email: endernull@icloud.com
 author: endernull
 description: >- # this means to ignore newlines until "baseurl:"
   Un loco con un cartel / 26 y.o. / Boy / Otaku / Geek / Programmer / Evelynn Main / Telegram Bot Dev
-locale: es_ES
+lang: es
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ender.drk.cat # the base hostname & protocol for your site, e.g. http://example.com
 host: ender.drk.cat
@@ -33,7 +33,6 @@ github_username: luksireiku
 # Build settings
 remote_theme: luksireiku/no-style-pls
 
-# theme: minima
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "Home" # customize text for homepage link in post layout
