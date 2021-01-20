@@ -17,4 +17,5 @@ ENV JEKYLL_ENV=production
 
 EXPOSE 4000
 
-CMD ["bundle", "exec", "jekyll", "serve"]
+#CMD ["bundle", "exec", "jekyll", "serve"]
+CMD ["jekyll", "serve"]
