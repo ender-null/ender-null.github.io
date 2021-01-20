@@ -6,8 +6,8 @@ COPY ./Gemfile* /srv/jekyll/
 COPY ./*.md /srv/jekyll/
 COPY ./*.html /srv/jekyll/
 COPY ./*.yml /srv/jekyll/
-COPY ./_posts /srv/jekyll/
-COPY ./_data /srv/jekyll/
+COPY ./_posts /srv/jekyll/_posts
+COPY ./_data /srv/jekyll/_data
 
 RUN chown jekyll:jekyll /srv/jekyll -R
 
