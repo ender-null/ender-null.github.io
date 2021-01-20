@@ -13,6 +13,8 @@ RUN chown jekyll:jekyll /srv/jekyll -R
 
 RUN bundle install
 
+RUN gem 'no-style-please'
+
 ENV JEKYLL_ENV=production
 
 EXPOSE 4000
