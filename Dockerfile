@@ -13,7 +13,7 @@ RUN chown jekyll:jekyll /srv/jekyll -R
 
 RUN bundle install
 
-RUN gem 'no-style-please'
+RUN gem install no-style-please
 
 ENV JEKYLL_ENV=production
 
