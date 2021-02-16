@@ -2,32 +2,32 @@
 # https://github.com/luksireiku/no-style-pls#customize-the-menu
 
 entries:
-  - title: me
+  - title: Me
     entries:
-      - title: about
+      - title: About
         url: about
-      - title: telegram
+      - title: Telegram
         url: https://t.me/endernull
-      - title: github
+      - title: Github
         url: https://github.com/luksireiku/
-      - title: instagram
+      - title: Instagram
         url: https://instagram.com/endernull
-      - title: artistic instagram
+      - title: Artistic Instagram
         url: https://instagram.com/inth.e.drknss
 
-  - title: thoughts
+  - title: Thoughts
     post_list:
       limit: 8
       show_more: true
-      show_more_text: see archive...
+      show_more_text: See archive...
       show_more_url: archive
 
-  - title: projects
+  - title: Projects
     entries:
-      - title: api
+      - title: API
         url: https://api.drk.cat
 
-  - title: code
+  - title: Code
     entries:
       - title: polaris (runs currently all my bots)
         url: https://github.com/luksireiku/polaris
@@ -36,22 +36,22 @@ entries:
       - title: no-style-pls (this jekyll theme)
         url: https://github.com/luksireiku/no-style-pls
 
-  - title: bots
+  - title: Bots
     entries:
-      - title: polaris (telegram)
+      - title: Polaris (Telegram)
         url: https://t.me/PolarisBot
-      - title: polaris (discord)
+      - title: Polaris (Discord)
         url: https://discord.com/api/oauth2/authorize?client_id=769780135451689012&permissions=2146959191&scope=bot
-      - title: peto-tan (telegram)
+      - title: Peto-tan (Telegram)
         url: https://t.me/PetoBot
-      - title: peto-tan (discord)
+      - title: Peto-tan (Discord)
         url: https://discord.com/api/oauth2/authorize?client_id=752912582867812413&permissions=2146959191&scope=bot
-      - title: peto-chan (telegram)
+      - title: Peto-chan (Telegram)
         url: https://t.me/PetoChan
-      - title: pilarico (telegram)
+      - title: Pilarico (Telegram)
         url: https://t.me/PilaricoBot
-      - title: pilarico (discord)
+      - title: Pilarico (Discord)
         url: https://discord.com/api/oauth2/authorize?client_id=766643345610244146&permissions=2146959191&scope=bot
 
-  - title: rss feed
+  - title: RSS feed
     url: feed.xml
