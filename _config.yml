@@ -35,6 +35,7 @@ github_username: luksireiku
 remote_theme: luksireiku/no-style-pls
 
 theme_config:
+  title_separator: " // "
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%d %B, %Y" # date shown in posts
