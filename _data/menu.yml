@@ -8,18 +8,18 @@ entries:
         url: about
       - title: telegram
         url: https://t.me/endernull
-      - title: twitter
-        url: https://twitter.com/endernull
-      - title: email
-        url: mailto:endernull@icloud.com
       - title: github
         url: https://github.com/luksireiku/
+      - title: instagram
+        url: https://instagram.com/endernull
+      - title: artistic instagram
+        url: https://instagram.com/inth.e.drknss
       - title: rss feed
         url: feed.xml
 
   - title: thoughts
     post_list:
-      limit: 5
+      limit: 8
       show_more: true
       show_more_text: see archive...
       show_more_url: archive
@@ -35,7 +35,7 @@ entries:
         url: https://github.com/luksireiku/polaris
       - title: polaris.py (the previous code of my bots)
         url: https://github.com/luksireiku/polaris.py
-      - title: no-style-pls (this theme)
+      - title: no-style-pls (this jekyll theme)
         url: https://github.com/luksireiku/no-style-pls
 
   - title: bots
@@ -44,7 +44,7 @@ entries:
         url: https://t.me/PolarisBot
       - title: peto-tan
         url: https://t.me/PetoBot
+      - title: peto-chan
+        url: https://t.me/PetoChan
       - title: pilarico
         url: https://t.me/PilaricoBot
-      - title: sakubo
-        url: https://t.me/sakubo
