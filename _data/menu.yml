@@ -4,16 +4,20 @@
 entries:
   - title: Me
     entries:
-      - title: About
-        url: about
+      - title: Portfolio
+        url: portfolio
       - title: Telegram
         url: https://t.me/endernull
       - title: Github
         url: https://github.com/luksireiku/
       - title: Instagram
-        url: https://instagram.com/endernull
+        url: https://instagram.com/ender_null
       - title: Artistic Instagram
         url: https://instagram.com/inth.e.drknss
+      - title: Twitter
+        url: https://twitter.com/endernull
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/asnedelcu/
 
   - title: Thoughts
     post_list:
@@ -23,12 +27,6 @@ entries:
       show_more_url: archive
 
   - title: Projects
-    entries:
-      - title: API
-        url: https://api.drk.cat
-
-  - title: Code
-    entries:
       - title: polaris (runs currently all my bots)
         url: https://github.com/luksireiku/polaris
       - title: polaris.py (the previous code of my bots)
