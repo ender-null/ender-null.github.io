@@ -8,6 +8,7 @@ COPY ./*.html ./
 COPY ./*.yml ./
 COPY ./_posts _posts/
 COPY ./_data _data/
+COPY ./assets assets/
 
 RUN chown jekyll:jekyll /srv/jekyll -R
 

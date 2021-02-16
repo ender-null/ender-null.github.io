@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ender null
+title: endernull @ home
 email: endernull@icloud.com
 author: endernull
 description: >-
-  Un loco con un cartel / 26 y.o. / Boy / Otaku / Geek / Programmer / Horde Rogue / Evelynn Main / Silver 3 / Telegram Bot Dev
+  Un loco con un cartel / 26 y.o. / Boy / Otaku / Geek / Programmer / Horde Rogue / Evelynn Main / Telegram Bot Dev
 lang: es
 baseurl: ""
 favicon: "assets/favicon.ico"

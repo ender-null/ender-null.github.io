@@ -1,5 +1,5 @@
 # For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
+# https://github.com/luksireiku/no-style-pls#customize-the-menu
 
 entries:
   - title: me
@@ -14,8 +14,6 @@ entries:
         url: https://instagram.com/endernull
       - title: artistic instagram
         url: https://instagram.com/inth.e.drknss
-      - title: rss feed
-        url: feed.xml
 
   - title: thoughts
     post_list:
@@ -27,7 +25,7 @@ entries:
   - title: projects
     entries:
       - title: api
-        url: https://api.drk.cat/
+        url: https://api.drk.cat
 
   - title: code
     entries:
@@ -40,11 +38,20 @@ entries:
 
   - title: bots
     entries:
-      - title: polaris
+      - title: polaris (telegram)
         url: https://t.me/PolarisBot
-      - title: peto-tan
+      - title: polaris (discord)
+        url: https://discord.com/api/oauth2/authorize?client_id=769780135451689012&permissions=2146959191&scope=bot
+      - title: peto-tan (telegram)
         url: https://t.me/PetoBot
-      - title: peto-chan
+      - title: peto-tan (discord)
+        url: https://discord.com/api/oauth2/authorize?client_id=752912582867812413&permissions=2146959191&scope=bot
+      - title: peto-chan (telegram)
         url: https://t.me/PetoChan
-      - title: pilarico
+      - title: pilarico (telegram)
         url: https://t.me/PilaricoBot
+      - title: pilarico (discord)
+        url: https://discord.com/api/oauth2/authorize?client_id=766643345610244146&permissions=2146959191&scope=bot
+
+  - title: rss feed
+    url: feed.xml
