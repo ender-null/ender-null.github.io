@@ -6,4 +6,4 @@ permalink: /portfolio/
 
 Work in progress
 
-[My resume (pdf 61kb)](/assets/Alin_Sorin_Nedelcu_CV.pdf)
+My resume (pdf 61kb) [english](/assets/Alin_Sorin_Nedelcu_CV.pdf) [spanish](/assets/Alin_Sorin_Nedelcu_CV-ES.pdf)
