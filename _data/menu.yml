@@ -4,8 +4,8 @@
 entries:
   - title: Me
     entries:
-      - title: Portfolio
-        url: portfolio
+      - title: Curriculum Vitae
+        url: curriculum
       - title: Telegram
         url: https://t.me/endernull
       - title: Github
