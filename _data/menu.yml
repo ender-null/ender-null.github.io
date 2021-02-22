@@ -6,22 +6,22 @@ entries:
     entries:
       - title: Curriculum Vitae
         url: curriculum
-      - title: Telegram
-        url: https://t.me/endernull
       - title: Github
         url: https://github.com/luksireiku/
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/asnedelcu/
+      - title: Telegram
+        url: https://t.me/endernull
       - title: Instagram
         url: https://instagram.com/ender_null
       - title: Artistic Instagram
         url: https://instagram.com/inth.e.drknss
       - title: Twitter
         url: https://twitter.com/endernull
-      - title: LinkedIn
-        url: https://www.linkedin.com/in/asnedelcu/
 
   - title: Thoughts
     post_list:
-      limit: 5
+      limit: 8
       show_more: true
       show_more_text: See archive...
       show_more_url: archive
@@ -34,7 +34,7 @@ entries:
         url: https://github.com/luksireiku/polaris.py
       - title: luksireiku.github.io
         url: https://github.com/luksireiku/luksireiku.github.io
-      - title: curriculum vitae
+      - title: curriculum
         url: https://github.com/luksireiku/curriculum
 
   - title: Bots
