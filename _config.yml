@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: endernull.dev
+title: ender-null.github.io
 email: endernull@icloud.com
 author: endernull
 description: >-
@@ -26,13 +26,13 @@ description: >-
 lang: es
 baseurl: ""
 favicon: "assets/favicon.ico"
-url: https://luksireiku.github.io
-host: https://luksireiku.github.io
+url: https://ender-null.github.io
+host: https://ender-null.github.io
 twitter_username: endernull
-github_username: luksireiku
+github_username: ender-null
 
 # Build settings
-remote_theme: luksireiku/no-style-pls
+remote_theme: ender-null/no-style-pls
 
 theme_config:
   title_separator: " // "

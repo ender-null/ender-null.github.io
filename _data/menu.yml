@@ -7,7 +7,7 @@ entries:
       - title: Curriculum Vitae
         url: curriculum
       - title: Github
-        url: https://github.com/luksireiku/
+        url: https://github.com/ender-null/
       - title: LinkedIn
         url: https://www.linkedin.com/in/asnedelcu/
       - title: Telegram
@@ -29,13 +29,13 @@ entries:
   - title: Projects
     entries:
       - title: polaris
-        url: https://github.com/luksireiku/polaris
+        url: https://github.com/ender-null/polaris
       - title: polaris.py
-        url: https://github.com/luksireiku/polaris.py
+        url: https://github.com/ender-null/polaris.py
       - title: luksireiku.github.io
-        url: https://github.com/luksireiku/luksireiku.github.io
+        url: https://github.com/ender-null/luksireiku.github.io
       - title: curriculum
-        url: https://github.com/luksireiku/curriculum
+        url: https://github.com/ender-null/curriculum
 
   - title: Bots
     entries:
