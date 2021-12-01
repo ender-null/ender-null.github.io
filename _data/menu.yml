@@ -30,10 +30,10 @@ entries:
     entries:
       - title: polaris
         url: https://github.com/ender-null/polaris
-      - title: polaris.py
-        url: https://github.com/ender-null/polaris.py
       - title: canopus (api.drk.cat)
-        url: https://github.com/drkcat/canopus
+        url: https://api.drk.cat
+      - title: zine
+        url: https://zine.drk.cat
       - title: ender-null.github.io
         url: https://github.com/ender-null/ender-null.github.io
       - title: curriculum
