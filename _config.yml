@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ender-null.github.io
+title: ender null
 email: endernull@icloud.com
 author: endernull
 description: >-
-  Hi. I’m Ender, a web & software developer from Spain with years of experience creating awesome projects.
+  Hi. I’m Ender, a web & software developer with years of experience creating awesome projects.
 lang: es
 baseurl: ""
 favicon: "assets/favicon.ico"
