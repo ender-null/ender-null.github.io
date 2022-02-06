@@ -24,9 +24,9 @@ entries:
   - title: Projects
     entries:
       - title: zine
-        url: https://zine.drk.cat
-      - title: canopus (api.drk.cat)
-        url: https://api.drk.cat
+        url: https://zine.end.works
+      - title: canopus
+        url: https://canopus.end.works
       - title: polaris
         url: https://github.com/ender-null/polaris
 
